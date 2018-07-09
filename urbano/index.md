@@ -5,19 +5,19 @@ permalink: /urbano/
 
 Colectivos urbanos SAT Río Cuarto
 
-[<button><font color="red"><b>1</b></font></button>](1_rojo.md)
-[<button><font color="green"><b>1</b></font></button>](1_verde.md)
-[<button>**2**</button>](2.md) 
-[<button>**3**</button>](3.md) 
-[<button>**4**</button>](4.md) 
-[<button>**5**</button>](5.md) 
+[<button><font color="red"><b>1</b></font></button>](01-rojo.md)
+[<button><font color="green"><b>1</b></font></button>](01-verde.md)
+[<button>**2**</button>](02.md) 
+[<button>**3**</button>](03.md) 
+[<button>**4**</button>](04.md) 
+[<button>**5**</button>](05.md) 
 
-[<button>**6**</button>](6.md) 
-[<button>**7**</button>](7.md) 
-[<button><font color="red"><b>8</b></font></button>](8_rojo.md)
-[<button><font color="green"><b>8</b></font></button>](8_verde.md)
-[<button><font color="red"><b>9</b></font></button>](9_rojo.md)
-[<button><font color="green"><b>9</b></font></button>](9_verde.md)
+[<button>**6**</button>](06.md) 
+[<button>**7**</button>](07.md) 
+[<button><font color="red"><b>8</b></font></button>](08-rojo.md)
+[<button><font color="green"><b>8</b></font></button>](08-verde.md)
+[<button><font color="red"><b>9</b></font></button>](09-rojo.md)
+[<button><font color="green"><b>9</b></font></button>](09-verde.md)
 
 [<button>**10**</button>](10.md) 
 [<button>**11**</button>](11.md) 
