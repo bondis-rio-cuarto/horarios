@@ -5,6 +5,6 @@ permalink: /interurbano/
 
 Colectivos interurbanos SAT Río Cuarto
 
-[<button>**Higueras**</button>](higueras.md) 
+[<button>**Higueras**</button>](higueras) 
 
-[<button>**Holmberg**</button>](holmberg.md) 
+[<button>**Holmberg**</button>](holmberg) 
