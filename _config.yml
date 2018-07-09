@@ -3,8 +3,8 @@ name: "Bondis Río Cuarto"
 description: "Respaldo de los horarios de transporte de SATRC ante problemas en el sitio oficial."
 author: "ls&bn"
 
-url: "http://localhost:4000"
-#url: "https://bondis-rio-cuarto.github.io/horarios"
+#url: "http://localhost:4000"
+url: "https://bondis-rio-cuarto.github.io/horarios"
 
 exclude: [README.md, Rakefile]
 paginate: 16
