@@ -4,7 +4,7 @@ description: "Mirror de los horarios de transporte público en Río Cuarto en un
 author: "ls&bn"
 
 # url: "http://localhost:4000"
- url: "https://bondis-rio-cuarto.github.io/horarios"
+url: "https://bondis-rio-cuarto.github.io/horarios"
 
 exclude: [README.md, Rakefile]
 paginate: 16
